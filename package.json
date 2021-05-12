@@ -52,7 +52,7 @@
     "jsdoc": "^3.6.3",
     "jsdoc-route-plugin": "^0.1.0",
     "markdownlint": "^0.17.0",
-    "nodemailer": "^6.3.1",
+    "nodemailer": "^6.4.16",
     "puppeteer": "^1.20.0",
     "puppeteer-har": "^1.1.1",
     "start-server-and-test": "^1.10.6",
